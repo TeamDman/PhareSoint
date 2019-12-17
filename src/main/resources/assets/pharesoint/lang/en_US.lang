@@ -1,0 +1,14 @@
+commands.pharesoint.notfound=Command not found.
+commands.pharesoint.trust.success=Added %s to the trust list.
+commands.pharesoint.trust.duplicate=%s is already in the trust list.
+commands.pharesoint.untrust.notfound=Player %s isn't in the trust list.
+commands.pharesoint.untrust.success=Removed %s from the trust list.
+commands.pharesoint.push.success=Pushed %d waypoints to %s.
+commands.pharesoint.pull.pending=Requested waypoints from %s.
+commands.pharesoint.noself=Must be another player, not yourself.
+commands.pharesoint.trustinfo.count_none=You have trusted no one.
+commands.pharesoint.trustinfo.count_one=You have trusted one person:
+commands.pharesoint.trustinfo.count_many=You currently trust %d people:
+payload.received.untrusted=Received an untrusted payload from %s. No action was taken.
+payload.received.success=Successfully received a payload from %s.
+payload.sending.notify=Sending waypoint paylod to %s.

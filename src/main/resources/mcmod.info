@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pharesoint",
+  "name": "PhareSoint",
+  "description": "Share Journeymap waypoints with your party!",
+  "version": "1.1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TeamDman"],
+  "credits": "Microsoft, for not suing me.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
